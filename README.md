@@ -1,3 +1,5 @@
+Official repository and project is on [soucehut](https://git.sr.ht/~bacardi55/cleanABag). This repository is archived.
+
 # cleanABag - A CLI tool to clean your (walla)bag
 
 [![builds.sr.ht status](https://builds.sr.ht/~bacardi55/walgot.svg)](https://builds.sr.ht/~bacardi55/cleanABag?)
